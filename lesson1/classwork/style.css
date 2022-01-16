@@ -1,0 +1,19 @@
+html, body {
+    scroll-behavior: smooth;
+}
+
+h1, .title {
+    text-align: center;
+}
+
+h2 {
+    background-color: silver;
+}
+
+img {
+    height: 250px;
+}
+
+.xxx {
+    color: rgb(186, 90, 90);
+}
