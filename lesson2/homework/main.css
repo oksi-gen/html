@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    background-color: #892726;
+    color: #f9ebe0;
+}
+
+.target1 {
+    background-color: #c0c0c0;
+    padding: 20px;
+}
+
+.target2 {
+    background-color: #6395ec;
+    padding: 30px 0;
+}
+
+.target3 {
+    height: 200px;
+    width: 200px;
+    background-color: #6bba67;
+}
+
+.target4 {
+    height: 200px;
+    width: 200px;
+    background-color: #8886ab;
+    border-radius: 20px;
+}

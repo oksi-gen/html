@@ -1,0 +1,14 @@
+.target1 {
+    height: 300px;
+    width: 600px;
+    margin: 100px 0 20px 10px;
+    background-color: #808080;
+    box-shadow: -35px -25px 40px 25px #d1b593;
+}
+
+.target2 {
+    font-size: 25px;
+    margin-left: 10px;
+    padding-left: 30px;
+    border-left: 5px solid #d90f0f;
+}
