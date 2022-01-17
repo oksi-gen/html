@@ -1,0 +1,34 @@
+.outer {
+    width: 600px;
+}
+
+.header, .footer {
+    box-sizing: border-box;
+    height: 100px;
+    background-color: #c1fa5f;
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+}
+
+.menu, .post {
+    box-sizing: border-box;
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.menu {
+    background-color: #ff59e8;
+    width: 200px;
+}
+
+.post {
+    background-color: #59baff;
+    width: 400px;
+    height: 300px;
+}

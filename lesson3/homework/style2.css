@@ -1,0 +1,35 @@
+.outer {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.inner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.widgets, .widget, .contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 25px;
+    box-sizing: border-box;
+    border: 5px solid white;
+}
+
+.widgets {
+    height: 200px;
+    background-color: #003381;
+}
+
+.widget {
+    height: 200px;
+    width: 260px;
+    background-color: #001e56;
+}
+
+.contact {
+    height: 400px;
+    background-color: #003381;
+}

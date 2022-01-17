@@ -1,0 +1,33 @@
+.header, .footer {
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+}
+
+.top, .middle, .bottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    border: 2px solid white;
+    color: white;
+}
+
+.top {
+    height: 400px;
+    width: 250px;
+    background-color: #003381;
+
+}
+
+.middle {
+    height: 200px;
+    width: 500px;
+    background-color: #003381;
+}
+
+.bottom {
+    height: 200px;
+    width: 33%;
+    background-color: #001e56;
+}

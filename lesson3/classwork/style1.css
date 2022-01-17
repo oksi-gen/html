@@ -1,0 +1,42 @@
+.outer {
+    width: 800px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.wrap, .inner {
+    display: flex;
+}
+
+.a, .b, .c, .d, .e, .f {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    border: 2px solid white;
+    background-color: silver;
+    height: 200px;
+}
+
+.a {
+    width: 800px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.b {
+    width: 600px;
+}
+
+.c, .d, .e, .f {
+    width: 200px;
+}
+
+.f {
+    height: 400px;
+    border-bottom-right-radius: 20px;
+}
+
+.c {
+    border-bottom-left-radius: 20px;
+}

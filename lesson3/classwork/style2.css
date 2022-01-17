@@ -1,0 +1,44 @@
+.wrap {
+    width: 800px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.outer, .small-wrap {
+    display: flex;
+}
+
+.small-wrap {
+    flex-wrap: wrap;
+    width: 600px;
+}
+
+.a, .inner, .h {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    background-color: silver;
+    border: 2px solid white;
+    height: 200px;
+}
+
+.a {
+    width: 800px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.inner, .h {
+    width: 200px;
+}
+
+#e {
+    border-bottom-left-radius: 20px;
+}
+
+.h {
+    height: 400px;
+    border-bottom-right-radius: 20px;
+}
+
