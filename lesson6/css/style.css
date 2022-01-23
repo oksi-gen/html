@@ -1,0 +1,142 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --black-color: #000;
+}
+
+.header {
+    border-bottom: 1px solid #EAEEF2;
+}
+
+.header_grid {
+    position: relative;
+}
+
+.wrapper {
+    max-width: 1150px;
+    margin: 0 auto;
+}
+
+.top_bar {
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header_logo,
+.nav_menu {
+    display: flex;
+    align-items: center;
+}
+
+.nav_menu {
+    column-gap: 22px;
+}
+
+.nav_menu__item a {
+    font-size: 16px;
+    line-height: 16px;
+    color: var(--black-color);
+    text-decoration: none;
+}
+
+.nav_buttons {
+    margin-left: 5px;
+    display: flex;
+    column-gap: 18px;
+}
+
+.nav_btn {
+    height: 52px;
+    box-sizing: border-box;
+    border-radius: 100px;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    padding: 0 25px;
+    cursor: pointer;
+    transition: box-shadow .35s;
+}
+
+.nav_btn:hover {
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, 1);
+    -webkit-box-shadow: 0 0 15px 0 rgba(0, 0, 0, 1);
+    -moz-box-shadow: 0 0 15px 0 rgba(0, 0, 0, 1);
+}
+
+.nav_btn__login {
+    border: 1px solid var(--black-color);
+    background: none;
+    color: var(--black-color);
+}
+
+.nav_btn__expert {
+    background-color: var(--black-color);
+    color: #ffffff;
+    border: none;
+}
+
+.header_wrap__content {
+    padding: 100px 0 10px;
+    display: flex;
+    justify-content: space-between;
+    column-gap: 63px;
+}
+
+.header_content__title {
+    font-weight: bold;
+    font-size: 77px;
+    line-height: 83px;
+    color: var(--black-color);
+    margin-bottom: 27px;
+}
+
+.text {
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 31px;
+    color: var(--black-color);
+}
+
+.header_content {
+    width: 500px;
+    min-width: 500px;
+}
+
+.header_content h4 {
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    color: var(--black-color);
+}
+
+.header_content__image {
+    flex-grow: 1;
+}
+
+.header_button_bottom {
+    position: absolute;
+    background: var(--black-color);
+    border-radius: 100px;
+    height: 60px;
+    padding: 0 30px;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 25px;
+    color: #FFFFFF;
+    bottom: -30px;
+    border: none;
+    cursor: pointer;
+    transition: box-shadow .35s;
+}
+
+.header_button_bottom:hover {
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, 1);
+    -webkit-box-shadow: 0 0 15px 0 rgba(0, 0, 0, 1);
+    -moz-box-shadow: 0 0 15px 0 rgba(0, 0, 0, 1);
+}
