@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09cff8db-4c1b-4008-84be-fed6c3b70370" name="Changes" comment="add additional task lesson 3">
+      <change afterPath="$PROJECT_DIR$/lesson4/additional/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/additional/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/classwork/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/classwork/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/homework/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/homework/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/additional/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/additional/index1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/additional/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/additional/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +73,32 @@
       <recent name="C:\Users\user\IdeaProjects\html\lesson1\classwork" />
     </key>
   </component>
+  <component name="RunManager" selected="JavaScript Debug.index2.html (1)">
+    <configuration name="index1.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html/lesson3/homework/index1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html/lesson3/classwork/index1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index2.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html/lesson3/homework/index2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html/lesson3/classwork/index2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html/lesson3/classwork/index3.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index2.html (1)" />
+        <item itemvalue="JavaScript Debug.index1.html (1)" />
+        <item itemvalue="JavaScript Debug.index3.html" />
+        <item itemvalue="JavaScript Debug.index2.html" />
+        <item itemvalue="JavaScript Debug.index1.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -82,7 +112,7 @@
       <workItem from="1642400675650" duration="37701000" />
       <workItem from="1643373453421" duration="1576000" />
       <workItem from="1643384099756" duration="497000" />
-      <workItem from="1643385619677" duration="3710000" />
+      <workItem from="1643385619677" duration="41615000" />
     </task>
     <task id="LOCAL-00001" summary="add classwork">
       <created>1642359261111</created>
@@ -147,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643383624630</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add additional task lesson 3">
+      <created>1643389860439</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1643389860439</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
